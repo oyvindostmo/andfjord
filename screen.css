@@ -1,0 +1,15 @@
+
+.manamind {
+    font-family: 'Verlag web', sans-serif !important;
+    color: #333 !important;
+    font-size: 20px !important;
+    line-height: 32px !important;
+    font-weight: 400 !important;
+}
+.manamind td {
+    border-top: 1px solid #e7e7e7 !important;
+}
+.manamind td, .manamind th {
+    padding: 10px 20px 10px 0 !important;
+    text-align: left !important;
+}
